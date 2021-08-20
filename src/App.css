@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.Table-Container{
+  border: 2px solid rgb(158, 224, 34);
+  width: 1500px;
+    /* height: 420px; */
+    /* margin-top: 40px; */
+    margin-left: 10px;
+}
+.link{
+  cursor: pointer;
+  color: blue; 
+}
+.title{
+  color: orangered;
+}
